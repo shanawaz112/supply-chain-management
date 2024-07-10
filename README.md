@@ -22,10 +22,13 @@ cp .env.example .env
 
 Environment Variables
 
-Create a .env file in the root of your project and add the following variables:
+Create a .env file in the root of your project and add the following variables.
+Contact
+
     •	Name: Mohammad Shanawaz
     •	Email: shanawaz170589@gmail.com
     •	GitHub: shanawaz112
+    
 These environment variables are privately shared.
 
 # Make sure to fill in the required values in the .env file
