@@ -23,10 +23,9 @@ cp .env.example .env
 Environment Variables
 
 Create a .env file in the root of your project and add the following variables:
-
-PORT=
-MONGODB_URI=
-JWT_SECRET=
+• PORT
+• MONGODB_URI
+• JWT_SECRET
 These environment variables are privately shared.
 
 # Make sure to fill in the required values in the .env file
