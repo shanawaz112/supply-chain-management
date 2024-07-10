@@ -1,9 +1,5 @@
 Supply Chain Management
 
-Description
-
-A brief description of what the project does.
-
 Installation
 
 Instructions on how to install and set up the project.
